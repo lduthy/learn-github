@@ -11,3 +11,4 @@ git log
 git add /dir/* 
 git commit -am "message" 
 git diff
+Add another sentence
